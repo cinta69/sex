@@ -837,5 +837,5 @@ if __name__=="__main__":
 	try:os.mkdir('OK')
 	except:pass 
 	menu()
-run.py
-Menampilkan run.py.
+ratu_error.py
+Menampilkan ratu_error.py.
