@@ -837,5 +837,3 @@ if __name__=="__main__":
 	try:os.mkdir('OK')
 	except:pass 
 	menu()
-ratu_error.py
-Menampilkan ratu_error.py.
